@@ -29,3 +29,5 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 - **Energy & Mining** : Renewable energy consumption (% of total final energy consumption)
 - **Energy & Mining** : Fossil fuel energy consumption (% of total)
 - **Climate Change** : Total greenhouse gas emissions (kt of CO2 equivalent)
+
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density.png)
