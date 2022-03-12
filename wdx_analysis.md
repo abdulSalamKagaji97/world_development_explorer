@@ -30,4 +30,29 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 - **Energy & Mining** : Fossil fuel energy consumption (% of total)
 - **Climate Change** : Total greenhouse gas emissions (kt of CO2 equivalent)
 
+## Population distribution among countries:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density.png)
+
+### How is tech exports and electricity consumption affected by population?
+
+#### **High-tech exports**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/tech_exports.png)
+
+#### **Renewable Energy Consumptions**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy%20_econsumption.png)
+
+#### **Relation between population density and high-technology exports**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_tech_exports.png)
+
+#### **Relation between population density and Renewable Energy Consumption**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_energy.png)
+
+#### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
+
+#### **Relation between Population density and fossil fuel consumption**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossil_fuel_consumption.png)
+
+
+
+
