@@ -33,45 +33,50 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ## Population distribution among countries:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density.png)
 
-### How is tech exports and electricity consumption affected by population?
+## How is tech exports and electricity consumption affected by population?
 
-#### **High-tech exports**
+### **High-tech exports**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/tech_exports.png)
 
-#### **Renewable Energy Consumptions**
+### **Renewable Energy Consumptions**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy%20_econsumption.png)
 
-#### **Relation between population density and high-technology exports**
+### **Relation between population density and high-technology exports**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_tech_exports.png)
 
-#### **Relation between population density and Renewable Energy Consumption**
+### **Relation between population density and Renewable Energy Consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_renewable_energy.png)
 
-#### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
+### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
 
-#### **Relation between Population density and fossil fuel consumption**
+### **Relation between Population density and fossil fuel consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossion_fuel_consumption.png)
 
-### How is fossil fuel consumption and greenhouse gasses emission affected with changes in population and time?
+## How is fossil fuel consumption and greenhouse gasses emission affected with changes in population and time?
 
-#### **Population density change during 2010 to 2020**
+### **Population density change during 2010 to 2020**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density_timeseries.png)
 
-#### **High-tech exports during 2010 to 2020**
+### **High-tech exports during 2010 to 2020**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/tech_exports_timeseries.png)
 
-#### **fossil fuel comsumption during 2010 to 2020**
+### **Renewable energy consumption during 2010 to 2020**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_consumpiton_timeseries.png)
+
+### **fossil fuel comsumption during 2010 to 2020**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_timeseries.png)
 
-#### **Fossil fuel energy consumption by country**
+### **Fossil fuel energy consumption by country**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_consumption_pie.png)
 
 
-#### **Greenhouse gas emission during 2010 to 2020**
+### **Greenhouse gas emission during 2010 to 2020**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission_timeseries.png)
 
-#### **Greenhouse gas emission by country**
+### **Greenhouse gas emission by country**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission.png)
 
+
+## Conclusion
 
