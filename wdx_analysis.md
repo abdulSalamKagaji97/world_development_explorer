@@ -84,6 +84,14 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ### **Greenhouse gas emission by country**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission.png)
 
+## Observations 
+
+- It can be observed that as time passes the population density increases
+- As population density increases the consumption of renewable energy increases
+- Consumption of renewable energy is affected by the increase in trade of high-tech exports.
+- Consumpiton of fossil fuels increase with increase in population
+- Emission of greenhouse gasses increases with increase in nation's land size and is slightly affected by the populatio density.
+
 
 ## Conclusion
 
