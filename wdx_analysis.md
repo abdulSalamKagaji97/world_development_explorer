@@ -50,6 +50,8 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ### **Relation between population density and Renewable Energy Consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_renewable_energy.png)
 
+- The graph shows that renewable energy consumption ratios need not be dependent on population density, as congo, the nation with lower population density has highest renewable energy consumption when compared to other nations.
+
 ### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
 
