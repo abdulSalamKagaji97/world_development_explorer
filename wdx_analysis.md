@@ -44,6 +44,9 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ### **Relation between population density and high-technology exports**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_tech_exports.png)
 
+- The graph clearly states that Singapore has got highest technological exports which insinuates to the demand of high energy resources.
+
+
 ### **Relation between population density and Renewable Energy Consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_renewable_energy.png)
 
