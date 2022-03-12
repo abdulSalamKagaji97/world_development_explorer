@@ -16,12 +16,16 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 
 ## Approach
 
-a.	Source of data & graphs: THE WORLD DEVELOPMENT EXPLORER (https://www.worlddev.xyz/) 
-b.	Countries Compared: United States, India, United Arab Emirates, Japan, United Kingdom, China, Singapore, Congo, Dem. Rep.
-c.	Timeline : 2010 to 2020
-d.	Topics and Indicators:
--	Urban Development : Population density (people per sq. km of land area)
-- Science & Technology: High-technology exports (% of manufactured exports)
-- Energy & Mining : Renewable energy consumption (% of total final energy consumption)
-- Energy & Mining : Fossil fuel energy consumption (% of total)
-- Climate Change : Total greenhouse gas emissions (kt of CO2 equivalent)
+**a.	Source of data & graphs:** THE WORLD DEVELOPMENT EXPLORER (https://www.worlddev.xyz/) 
+
+**b.	Countries Compared:** United States, India, United Arab Emirates, Japan, United Kingdom, China, Singapore, Congo, Dem. Rep.
+
+**c.	Timeline :** 2010 to 2020
+
+**d.	Topics and Indicators:**
+
+-	**Urban Development** : Population density (people per sq. km of land area)
+- **Science & Technology** : High-technology exports (% of manufactured exports)
+- **Energy & Mining** : Renewable energy consumption (% of total final energy consumption)
+- **Energy & Mining** : Fossil fuel energy consumption (% of total)
+- **Climate Change** : Total greenhouse gas emissions (kt of CO2 equivalent)
