@@ -53,6 +53,14 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 #### **Relation between Population density and fossil fuel consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossion_fuel_consumption.png)
 
+### How is fossil fuel consumption and greenhouse gasses emission affected with changes in population and time?
 
+#### **Population density change during 2010 to 2020**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density_timeseries.png)
 
+#### **fossil fuel comsumption during 2010 to 2020**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_timeseries.png)
+
+#### **Greenhouse gas emission during 2010 to 2020**
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission_timeseries.png)
 
