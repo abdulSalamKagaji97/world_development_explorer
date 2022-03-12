@@ -51,7 +51,7 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
 
 #### **Relation between Population density and fossil fuel consumption**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossil_fuel_consumption.png)
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossion_fuel_consumption.png)
 
 
 
