@@ -55,6 +55,8 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 ### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
 
+- It can be clearly observed that the China has got highest greenhouse gas emission when compared to other nations followed by India. Though Singapore has highest population density when compared to China, China has greater emission of CO<sub>2</sub> gas. This could insinuate that land size also matters when comming to emission of greeenhouse gas.
+
 ### **Relation between Population density and fossil fuel consumption**
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossion_fuel_consumption.png)
 
