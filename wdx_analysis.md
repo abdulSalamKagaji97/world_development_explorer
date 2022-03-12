@@ -80,3 +80,8 @@ Let us analyze the effects of overpopulation on the consumption of fossil fuels 
 
 ## Conclusion
 
+Although it is inevitably true that it is not possible to determine 100% facts from just one indicator like population to declare fossil fuel extinction and increase in greenhouse gasses is solely due to population growth as many other factors like current environmental situaltions, climatic conditions could also be the reasons.
+
+For future researches, comparing the changes in fossil fuel consumption and green house gas generation with other factors other than population would provide much more analytics and much more meaningful insights.
+
+
