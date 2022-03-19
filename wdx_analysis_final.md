@@ -29,77 +29,47 @@ Let us analyze the effects of overpopulation, fossil fuel consumption, renewable
 - **Energy & Mining** : Fossil fuel energy consumption (% of total)
 - **Climate Change** : Total greenhouse gas emissions (kt of CO2 equivalent)
 
-## Population distribution among regions:
+## Visual Analysis:
+
+### Population distribution among regions:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_distribution.png)
 
-## Population Change between 2010 and 2021:
+### Population Change between 2010 and 2021:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/pop_change_timeseries.png)
 
-## Fossil Fuel Consumption by region:
+### Fossil Fuel Consumption by region:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossilfuel_consuption_pie.png)
 
-## Renewal Energy Consumption by region:
+### Renewal Energy Consumption by region:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy_consumption_pie.png)
 
-## Greenhouse Gas Emission by region:
+### Greenhouse Gas Emission by region:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/greenHouse_gas_emission_pie.png)
 
-## Relation between population density,fossil fuel consumption and greenhouse gas emission:
+### Relation between population density,fossil fuel consumption and greenhouse gas emission:
 ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/pop_vs_fossilfuel_vs_greenhousegas.png)
 
-## Relation between population density, renewable energy consumption and greenhouse gas emission
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/pop_vs_renewabeenergy_vs_greenhousegas.png https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/pop_vs_renewabeenergy_vs_greenhousegas.png)
+### Relation between population density, renewable energy consumption and greenhouse gas emission
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/pop_vs_renewabeenergy_vs_greenhousegas.png)
 
-## How is tech exports and electricity consumption affected by population?
+### Change in Fossil fuel consumption, renewable energy consumption and greenhouse gas emission with time:
+Fossil fuel consumption | Renewable energy consumption 
+:-------------------------:|:-------------------------:
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_consumption_timeseries.png) | ![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy%20_consumption_timeseries.png) 
+####  Greenhouse gas emission
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/green_house_gas_emission_timeseries.png)
 
-### **High-tech exports**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/tech_exports.png)
+## Regression Analysis
 
-### **Renewable Energy Consumptions**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy%20_econsumption.png)
+### Impact of fossil fuel consumption on greenhouse gas emission:
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_consumpiton_vs_greenhousegas_emission_regression.png)
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/regression_analysis_fossilfuel_consumption_vs_greenhousegas.jpg)
 
-### **Relation between population density and high-technology exports**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_tech_exports.png)
-
-- The graph clearly states that Singapore has got highest technological exports which insinuates to the demand of high energy resources.
-
-
-### **Relation between population density and Renewable Energy Consumption**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_renewable_energy.png)
-
-- The graph shows that renewable energy consumption ratios need not be dependent on population density, as congo, the nation with lower population density has highest renewable energy consumption when compared to other nations.
-
-### **Relation between Renewable Energy Consumption and Greenhouse gas emission**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_vs_gasses.png)
-
-- It can be clearly observed that the China has got highest greenhouse gas emission when compared to other nations followed by India. Though Singapore has highest population density when compared to China, China has greater emission of CO<sub>2</sub> gas. This could insinuate that land size also matters when comming to emission of greeenhouse gas.
-
-### **Relation between Population density and fossil fuel consumption**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_vs_fossion_fuel_consumption.png)
-
-## How is fossil fuel consumption and greenhouse gasses emission affected with changes in population and time?
-
-### **Population density change during 2010 to 2020**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/population_density_timeseries.png)
-
-### **High-tech exports during 2010 to 2020**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/tech_exports_timeseries.png)
-
-### **Renewable energy consumption during 2010 to 2020**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/energy_consumpiton_timeseries.png)
-
-### **fossil fuel comsumption during 2010 to 2020**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_timeseries.png)
-
-### **Fossil fuel energy consumption by country**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/fossil_fuel_consumption_pie.png)
+### Impact of renewable energy consumption on greenhouse gas emission:
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/renewable_energy_vs_greenhousegas_regression.png)
+![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/regression_analysis_renewable_energy_vs_greenhousegas.jpg)
 
 
-### **Greenhouse gas emission during 2010 to 2020**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission_timeseries.png)
-
-### **Greenhouse gas emission by country**
-![](https://github.com/abdulSalamKagaji97/world_development_explorer/blob/main/charts/gas_emission.png)
 
 ## Observations 
 
